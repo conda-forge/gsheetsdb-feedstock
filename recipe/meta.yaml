@@ -1,5 +1,5 @@
 {% set name = "gsheetsdb" %}
-{% set version = "0.1.10" %}
+{% set version = "0.1.12" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 7cd622e4baf50d8656ee45ad7bb811d814539cc2d2ac079ad0345c9231135111
+  sha256: a47cb47fb435bffec5fcdc922d9e6c9b83773159f409646d901e2fe43ea898b8
 
 build:
   noarch: python
