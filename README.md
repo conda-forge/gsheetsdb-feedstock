@@ -5,11 +5,9 @@ Home: https://github.com/betodealmeida/gsheets-db-api
 
 Package license: MIT
 
-Feedstock license: BSD 3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/gsheetsdb-feedstock/blob/master/LICENSE.txt)
 
 Summary: This module allows you to query Google Spreadsheets using SQL.
-
-
 
 Current build status
 ====================
